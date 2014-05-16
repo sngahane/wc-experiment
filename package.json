@@ -1,0 +1,12 @@
+{
+  "name"         : "wc-experiment",
+  "version"      : "0.0.1",
+  "description"  : "World Cup popularity index",
+  "main"         : "server.js",
+  "author"       : "samuelngahane",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
